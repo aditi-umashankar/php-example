@@ -6,15 +6,79 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
-			"_postman_id": "a29895e6-5013-419c-9256-b71ca2b2a928",
+			"name": "New Request Name",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "c6287cd5-ae06-43a4-93c4-202ce9dd5b54",
+						"exec": [
+							"console.log(\"Pre Request\")"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "1629e8ad-2bda-4bba-aa80-c7d9103f9ebb",
+						"exec": [
+							"console.log(\"Tests\")"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"id": "a29895e6-5013-419c-9256-b71ca2b2a928",
 			"protocolProfileBehavior": {
-				"disableBodyPruning": true
+				"strictSSL": false
 			},
 			"request": {
-				"method": "GET",
-				"header": [],
-				"url": null
+				"auth": {
+					"type": "apikey",
+					"apikey": {
+						"value": "api-value",
+						"key": "api-key"
+					}
+				},
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "header-key",
+						"value": "header-value",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\"payload\"",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "google.com?param-key=param-value",
+					"host": [
+						"google",
+						"com"
+					],
+					"query": [
+						{
+							"key": "param-key",
+							"value": "param-value",
+							"description": "Param Description"
+						}
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "random-path-variable"
+						}
+					]
+				},
+				"description": "Changed: 0.1794815907785269 Time: 17:44:22  \n\nwill this trigger"
 			},
 			"response": []
 		}

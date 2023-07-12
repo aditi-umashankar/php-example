@@ -32,9 +32,22 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "OPTIONS",
+				"method": "POST",
 				"header": [],
+				"url": "google.com",
 				"description": "Changed: 0.481966703179185 Time: 17:51:40"
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1dc1cbc8-b1ec-426b-85f8-3861c5ce9c9c",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
 			},
 			"response": []
 		}

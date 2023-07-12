@@ -28,13 +28,14 @@
 					}
 				}
 			],
-			"id": "872601b7-9a10-4654-8222-f167d2348ecd",
+			"_postman_id": "872601b7-9a10-4654-8222-f167d2348ecd",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": null
 			},
 			"response": []
 		}

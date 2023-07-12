@@ -28,7 +28,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "",
+					"raw": "{\n    \"a\": true,\n    \"b\": false\n}\n",
 					"options": {
 						"raw": {
 							"language": "json"

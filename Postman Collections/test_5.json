@@ -50,63 +50,6 @@
 				"header": []
 			},
 			"response": []
-		},
-		{
-			"name": "New Request",
-			"event": [
-				{
-					"listen": "prerequest",
-					"script": {
-						"id": "7c29d231-f078-494b-9d2f-ddb0df87b2fa",
-						"exec": [
-							"changes!!"
-						],
-						"type": "text/javascript"
-					}
-				},
-				{
-					"listen": "test",
-					"script": {
-						"id": "95eac030-bf86-49f7-945e-76f8269bf890",
-						"exec": [],
-						"type": "text/javascript"
-					}
-				}
-			],
-			"id": "0e179bed-4857-480d-ae68-a484bda53f83",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": [],
-				"url": {
-					"raw": "google.com?param-key=param-value",
-					"host": [
-						"google",
-						"com"
-					],
-					"query": [
-						{
-							"key": "param-key",
-							"value": "param-value"
-						}
-					]
-				}
-			},
-			"response": []
-		},
-		{
-			"name": "New Request",
-			"id": "d320ecd6-ced7-4262-a8ce-67d086938d9a",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
 		}
 	]
 }

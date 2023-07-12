@@ -13,7 +13,11 @@
 					"script": {
 						"id": "406d0017-b93d-4cb5-94c8-1eaca3b038c3",
 						"exec": [
-							"changing stuff"
+							"changing stuffagain",
+							"ans again",
+							"and again and again ",
+							"",
+							""
 						],
 						"type": "text/javascript"
 					}
@@ -21,7 +25,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "f78ea08a-c356-477d-8783-8a74990c03b3",
+						"id": "39e1c868-d79b-43c1-afef-7c4f90e8e287",
 						"exec": [],
 						"type": "text/javascript"
 					}
@@ -33,7 +37,16 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "some more stuff",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				}
 			},
 			"response": []
 		}

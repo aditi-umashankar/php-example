@@ -6,40 +6,6 @@
 	},
 	"item": [
 		{
-			"name": "NEWSER",
-			"event": [
-				{
-					"listen": "prerequest",
-					"script": {
-						"id": "4d8135cc-069a-4c3a-b4d9-b87a8da0d997",
-						"exec": [
-							""
-						],
-						"type": "text/javascript"
-					}
-				},
-				{
-					"listen": "test",
-					"script": {
-						"id": "af332d67-e5c4-4bec-a2d2-a1f099b739b7",
-						"exec": [],
-						"type": "text/javascript"
-					}
-				}
-			],
-			"id": "f4290748-d1ff-4fe9-8611-587a5bac531f",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "POST",
-				"header": [],
-				"url": "google.com",
-				"description": "Changed: 0.481966703179185 Time: 17:51:40"
-			},
-			"response": []
-		},
-		{
 			"name": "New Request",
 			"id": "1dc1cbc8-b1ec-426b-85f8-3861c5ce9c9c",
 			"protocolProfileBehavior": {

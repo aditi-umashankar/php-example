@@ -1,0 +1,23 @@
+{
+	"info": {
+		"_postman_id": "90f16c37-e775-4f90-96c8-cc9d7da27dbc",
+		"name": "Coll 2 Copy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"_postman_id": "ea07cf23-ad9a-4fc4-b032-8f69aa0c9196",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "OPTIONS",
+				"header": [],
+				"url": null,
+				"description": "Changed: 0.4240484762864461 Time: 17:51:39"
+			},
+			"response": []
+		}
+	]
+}

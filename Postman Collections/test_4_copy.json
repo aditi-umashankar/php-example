@@ -7,14 +7,33 @@
 	"item": [
 		{
 			"name": "New Request",
-			"_postman_id": "76160e64-3909-49b9-bb58-c57542d6898a",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "406d0017-b93d-4cb5-94c8-1eaca3b038c3",
+						"exec": [
+							"changing stuff"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "f78ea08a-c356-477d-8783-8a74990c03b3",
+						"exec": [],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"id": "76160e64-3909-49b9-bb58-c57542d6898a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": [],
-				"url": null
+				"header": []
 			},
 			"response": []
 		}

@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "e3afc595-5ff0-4454-aba2-e5c20cfead88",
+		"name": "Coll 4 Copy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"_postman_id": "76160e64-3909-49b9-bb58-c57542d6898a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}

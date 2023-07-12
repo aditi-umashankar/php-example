@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "NEWSER",
 			"event": [
 				{
 					"listen": "prerequest",
@@ -65,6 +65,26 @@
 		},
 		{
 			"name": "New Request",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "10fe1672-3e26-4041-8352-db666183f38f",
+						"exec": [
+							"CHANGES AND CHANGES AND CHANGES"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "934545e4-81aa-4b14-a5d4-feec08bf3720",
+						"exec": [],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"id": "4aa646d3-0ee1-47ba-8503-5904bc24a42e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true

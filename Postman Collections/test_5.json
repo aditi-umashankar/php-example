@@ -13,9 +13,7 @@
 					"script": {
 						"id": "4d8135cc-069a-4c3a-b4d9-b87a8da0d997",
 						"exec": [
-							"edit and make chnages",
-							"",
-							"lots of stuff"
+							""
 						],
 						"type": "text/javascript"
 					}
@@ -23,7 +21,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "d3b09be5-9adf-4d45-b7b0-01f9bf64c7e8",
+						"id": "af332d67-e5c4-4bec-a2d2-a1f099b739b7",
 						"exec": [],
 						"type": "text/javascript"
 					}

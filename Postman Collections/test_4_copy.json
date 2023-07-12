@@ -52,6 +52,26 @@
 		},
 		{
 			"name": "New Request",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "85e16979-486b-42bc-aee3-2202b9eeffc8",
+						"exec": [
+							"add newer"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "45c545e4-27ea-43ea-8e05-cc30d2950afa",
+						"exec": [],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"id": "bf53fbe6-229d-42bb-a748-07e533ca9543",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true

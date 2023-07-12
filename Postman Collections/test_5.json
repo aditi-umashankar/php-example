@@ -6,16 +6,6 @@
 	},
 	"item": [
 		{
-			"name": "New Folder",
-			"item": [],
-			"id": "10ec8768-ee2e-431f-8eb3-803961e201f0"
-		},
-		{
-			"name": "New Folder",
-			"item": [],
-			"id": "46862471-71be-433d-b8a0-8884441f7784"
-		},
-		{
 			"name": "New Request",
 			"event": [
 				{

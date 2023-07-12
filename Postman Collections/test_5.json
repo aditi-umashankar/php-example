@@ -16,6 +16,11 @@
 			"id": "d0e92fe7-40cb-4c75-8d75-2dac960e4f7a"
 		},
 		{
+			"name": "New Folder",
+			"item": [],
+			"id": "d1c2b41d-5c23-4f8a-be54-9450c69ac3f4"
+		},
+		{
 			"name": "New Request",
 			"id": "1dc1cbc8-b1ec-426b-85f8-3861c5ce9c9c",
 			"protocolProfileBehavior": {

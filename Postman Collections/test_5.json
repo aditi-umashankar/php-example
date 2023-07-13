@@ -33,6 +33,11 @@
 			"id": "06cdb2f9-bb02-41a8-9b5b-88bff5c8e11d"
 		},
 		{
+			"name": "New Folder",
+			"item": [],
+			"id": "5ff1af8e-833c-43dd-9b56-f616b2e38fe5"
+		},
+		{
 			"name": "New Request",
 			"id": "1dc1cbc8-b1ec-426b-85f8-3861c5ce9c9c",
 			"protocolProfileBehavior": {

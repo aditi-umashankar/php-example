@@ -54,6 +54,11 @@
 			"id": "10cf3b56-b3de-4a82-b381-94168637fcb8"
 		},
 		{
+			"name": "New Folder",
+			"item": [],
+			"id": "a3762e66-1783-4af1-8f03-82f268afe57e"
+		},
+		{
 			"name": "change",
 			"event": [
 				{

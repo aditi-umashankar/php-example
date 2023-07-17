@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "90f16c37-e775-4f90-96c8-cc9d7da27dbc",
 		"name": "Coll 2 Copy",
+		"description": "abundance of description",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [

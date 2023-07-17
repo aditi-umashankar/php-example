@@ -33,5 +33,27 @@
 			},
 			"response": []
 		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "d0adb59e-ef54-416e-b2d4-f1a78cc9a5f4",
+				"type": "text/javascript",
+				"exec": [
+					"initialise!!"
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "c29fa152-2a55-48e6-a18f-23b1f5f1d449",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
 	]
 }

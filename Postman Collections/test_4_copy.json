@@ -24,9 +24,6 @@
 					"script": {
 						"id": "406d0017-b93d-4cb5-94c8-1eaca3b038c3",
 						"exec": [
-							"changing stuffagain",
-							"ans again",
-							"and again and again ",
 							"",
 							""
 						],
@@ -37,7 +34,9 @@
 					"listen": "test",
 					"script": {
 						"id": "39e1c868-d79b-43c1-afef-7c4f90e8e287",
-						"exec": [],
+						"exec": [
+							""
+						],
 						"type": "text/javascript"
 					}
 				}
@@ -58,7 +57,7 @@
 						}
 					}
 				},
-				"url": null,
+				"url": "cooolnewurl/path/path",
 				"description": "Changed: 0.31290106731986755 Time: 23:14:47"
 			},
 			"response": []

@@ -17,6 +17,18 @@
 				"description": "Changed: 0.11206158159532938 Time: 23:14:47"
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "696f7069-be01-499a-b7aa-9cde9dd2a045",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }

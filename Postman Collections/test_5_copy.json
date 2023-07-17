@@ -2,25 +2,26 @@
 	"info": {
 		"_postman_id": "3b212a14-4af2-4a09-8204-fa8f152b523e",
 		"name": "Coll 5 Copy",
-		"description": "description! new stuff!\n\nextra description!!!!!\n\nnew stuff\n\nnewer!\n\nmore edits!\n\nnew!  \n\n  \n\nfinal change\n\nfor now",
+		"description": "description! new stuff!\n\nextra description!!!!!\n\ndsfwqefc\n\ndsfvaweca\n\nqeafcaesdfc\n\nwefcawefc\n\nnew stuff\n\nnewer!\n\nmore edits!\n\nnew!\n\nfinal change\n\nfor now",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
 			"name": "New Folder",
 			"item": [],
-			"id": "1fb0657d-95a9-47fa-ae49-8b2600dcbba5",
+			"_postman_id": "1fb0657d-95a9-47fa-ae49-8b2600dcbba5",
 			"description": "hgjghgjgjhgjhg\n\njgfkjfkgjjlgjhgugj;\n\nsfwefdfesfewf\n\nsfwaefwefawegva"
 		},
 		{
 			"name": "New Request",
-			"id": "26ce843e-ee9c-4666-9c69-362c0bd217a3",
+			"_postman_id": "26ce843e-ee9c-4666-9c69-362c0bd217a3",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "OPTIONS",
 				"header": [],
+				"url": null,
 				"description": "Changed: 0.31825153049021404 Time: 23:14:47"
 			},
 			"response": []

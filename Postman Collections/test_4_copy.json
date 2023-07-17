@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "e3afc595-5ff0-4454-aba2-e5c20cfead88",
 		"name": "Coll 4 Copy",
+		"description": "very extensive documentation",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
@@ -9,6 +10,11 @@
 			"name": "New Folder",
 			"item": [],
 			"_postman_id": "2d1411e1-e80e-4f71-b9fe-4461f85db8d3"
+		},
+		{
+			"name": "New Folder",
+			"item": [],
+			"_postman_id": "633a168e-760c-4f20-90bc-d46165b9aa56"
 		},
 		{
 			"name": "New Request",

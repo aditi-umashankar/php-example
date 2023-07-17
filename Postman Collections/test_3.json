@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "acf96cad-5ca1-4342-9a94-c3e841e6bef6",
 		"name": "Coll 3",
-		"description": "extensive description  \n\n  \n\nmore things to describe this great colelciton!",
+		"description": "extensive description\n\nmore things to describe this great colelciton!",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
@@ -32,23 +32,36 @@
 				"url": "newurl/path/path"
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"_postman_id": "81e932ae-efb1-452d-bf0e-55a4aa3ab437",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
 		}
 	],
 	"event": [
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "d0adb59e-ef54-416e-b2d4-f1a78cc9a5f4",
+				"id": "b5fedb95-314b-4fe9-bb3f-dcfe7d2b1b98",
 				"type": "text/javascript",
 				"exec": [
-					"initialise!!"
+					""
 				]
 			}
 		},
 		{
 			"listen": "test",
 			"script": {
-				"id": "c29fa152-2a55-48e6-a18f-23b1f5f1d449",
+				"id": "60c60927-dfbc-488b-819f-819f042dd8fe",
 				"type": "text/javascript",
 				"exec": [
 					""

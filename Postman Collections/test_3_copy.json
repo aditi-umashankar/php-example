@@ -7,6 +7,11 @@
 	},
 	"item": [
 		{
+			"name": "New Folder",
+			"item": [],
+			"_postman_id": "125e9945-8194-450e-b106-e3ed342ebff3"
+		},
+		{
 			"name": "New Request",
 			"_postman_id": "272bbd0e-04a1-4c69-826b-be16803900e2",
 			"protocolProfileBehavior": {
@@ -19,6 +24,28 @@
 				"description": "Changed: 0.8129936257655201 Time: 23:14:47"
 			},
 			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "0d42d4c4-c58c-4265-a138-54cf201b9c5e",
+				"type": "text/javascript",
+				"exec": [
+					"script stuff initilaise things"
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "85f3d5b0-1121-47c6-a15c-a8ce381cd94a",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
 		}
 	]
 }

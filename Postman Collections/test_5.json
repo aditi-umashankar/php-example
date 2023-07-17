@@ -52,7 +52,8 @@
 					"script": {
 						"id": "10fe1672-3e26-4041-8352-db666183f38f",
 						"exec": [
-							"CHANGES AND CHANGES AND CHANGES"
+							"CHANGES AND CHANGES AND CHANGES",
+							"and some more new content"
 						],
 						"type": "text/javascript"
 					}
@@ -61,7 +62,9 @@
 					"listen": "test",
 					"script": {
 						"id": "934545e4-81aa-4b14-a5d4-feec08bf3720",
-						"exec": [],
+						"exec": [
+							""
+						],
 						"type": "text/javascript"
 					}
 				}
@@ -78,6 +81,26 @@
 		},
 		{
 			"name": "New Request",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "bb5911b7-4adb-47d0-91fa-55421116b13c",
+						"exec": [
+							"lets add some more"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "811eeb23-51b8-4318-89e6-ae938850925b",
+						"exec": [],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"id": "8ca45265-2f80-4185-80a3-390373a6ea8f",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true

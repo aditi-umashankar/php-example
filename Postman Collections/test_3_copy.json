@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "b135e784-4fa6-4c94-9af7-413d2e87f98e",
 		"name": "Coll 3 Copy",
-		"description": "extensive documentation  \n\nand some more",
+		"description": "extensive documentation\n\nand some more\n\nmore\n\nmore\n\nmore",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [

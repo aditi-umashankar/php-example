@@ -21,7 +21,7 @@
 				"method": "OPTIONS",
 				"header": [],
 				"url": null,
-				"description": "Changed: 0.3853398262169988 Time: 16:50:31"
+				"description": "Changed: 0.3221149001689049 Time: 0:7:29"
 			},
 			"response": []
 		},
@@ -32,9 +32,10 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "POST",
+				"method": "OPTIONS",
 				"header": [],
-				"url": "newurl/path/path"
+				"url": "newurl/path/path",
+				"description": "Changed: 0.12260798729113627 Time: 0:7:29"
 			},
 			"response": []
 		},
@@ -45,9 +46,10 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "GET",
+				"method": "OPTIONS",
 				"header": [],
-				"url": "collurl/path1/path2"
+				"url": "collurl/path1/path2",
+				"description": "Changed: 0.2871353333587964 Time: 0:7:29"
 			},
 			"response": []
 		}

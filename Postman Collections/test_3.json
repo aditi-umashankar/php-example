@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "acf96cad-5ca1-4342-9a94-c3e841e6bef6",
 		"name": "Coll 3",
-		"description": "extensive description\n\nmore things to document",
+		"description": "extensive description\n\nmore things to document\n\ndescription",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [

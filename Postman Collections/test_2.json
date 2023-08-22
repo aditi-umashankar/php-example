@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "c13f811a-a4aa-4fef-a2aa-89377604091e",
 		"name": "Coll 2",
+		"description": "Description update\n\nUpdate again",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [

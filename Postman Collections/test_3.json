@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "acf96cad-5ca1-4342-9a94-c3e841e6bef6",
-		"name": "Coll 3",
+		"name": "Test 3",
 		"description": "extensive description\n\nmore things to document  \nadd description\n\nmore changes\n\neven more\n\nanother one\n\nchanges when 5 min sleep time in ongoing\n\n5 min sleep change\n\n5 min sleep change\n\nawake change\n\nconsumer awake change\n\n5 min sleep chang\n\n5 min sleep change\n\n5 min sleep change\n\n5 min sleep change\n\n5 min sleep change\n\nconsumer awake change\n\nconsumer awake change\n\nconsumer awake change",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
@@ -9,7 +9,7 @@
 		{
 			"name": "newest folder of all!!",
 			"item": [],
-			"_postman_id": "6318781d-d3a7-4f92-8d62-cddb09c91246"
+			"id": "6318781d-d3a7-4f92-8d62-cddb09c91246"
 		},
 		{
 			"name": "New Request",
@@ -39,21 +39,20 @@
 					}
 				}
 			],
-			"_postman_id": "d623d4a4-0dec-4348-bd82-59023e74fc5c",
+			"id": "d623d4a4-0dec-4348-bd82-59023e74fc5c",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "OPTIONS",
 				"header": [],
-				"url": null,
 				"description": "Changed: 0.09812960996710754 Time: 22:29:40"
 			},
 			"response": []
 		},
 		{
 			"name": "New Request",
-			"_postman_id": "696f7069-be01-499a-b7aa-9cde9dd2a045",
+			"id": "696f7069-be01-499a-b7aa-9cde9dd2a045",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -67,7 +66,7 @@
 		},
 		{
 			"name": "New Request",
-			"_postman_id": "b195efeb-4d74-41f4-b666-8ee9b12d7496",
+			"id": "b195efeb-4d74-41f4-b666-8ee9b12d7496",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -103,7 +102,7 @@
 					}
 				}
 			],
-			"_postman_id": "e1264483-f2eb-4754-a355-7ebe49b9347b",
+			"id": "e1264483-f2eb-4754-a355-7ebe49b9347b",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},

@@ -2,7 +2,6 @@
 	"info": {
 		"_postman_id": "acf96cad-5ca1-4342-9a94-c3e841e6bef6",
 		"name": "Test 3",
-		"description": "extensive description\n\nmore things to document  \nadd description\n\nmore changes\n\neven more\n\nanother one\n\nchanges when 5 min sleep time in ongoing\n\n5 min sleep change\n\n5 min sleep change\n\nawake change\n\nconsumer awake change\n\n5 min sleep chang\n\n5 min sleep change\n\n5 min sleep change\n\n5 min sleep change\n\n5 min sleep change\n\nconsumer awake change\n\nconsumer awake change\n\nconsumer awake change",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
@@ -12,77 +11,8 @@
 				{
 					"listen": "prerequest",
 					"script": {
-						"id": "f8149b66-6a52-4c29-b855-cb9f67f5f1b7",
-						"exec": [
-							"//afnsfbffffmnsdsdnfksd",
-							"//add",
-							"//add",
-							"///adafds",
-							""
-						],
-						"type": "text/javascript"
-					}
-				},
-				{
-					"listen": "test",
-					"script": {
-						"id": "8293ad15-7650-4d33-85a6-4a20d732ff18",
-						"exec": [
-							""
-						],
-						"type": "text/javascript"
-					}
-				}
-			],
-			"id": "d623d4a4-0dec-4348-bd82-59023e74fc5c",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "OPTIONS",
-				"header": [],
-				"description": "Changed: 0.09812960996710754 Time: 22:29:40"
-			},
-			"response": []
-		},
-		{
-			"name": "New Request",
-			"id": "696f7069-be01-499a-b7aa-9cde9dd2a045",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "OPTIONS",
-				"header": [],
-				"url": "newurl/path/path",
-				"description": "Changed: 0.45365193548993943 Time: 22:29:40"
-			},
-			"response": []
-		},
-		{
-			"name": "New Request",
-			"id": "b195efeb-4d74-41f4-b666-8ee9b12d7496",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "OPTIONS",
-				"header": [],
-				"url": "collurl/path1/path2",
-				"description": "Changed: 0.4765050978163253 Time: 22:29:40"
-			},
-			"response": []
-		},
-		{
-			"name": "New Request Copy",
-			"event": [
-				{
-					"listen": "prerequest",
-					"script": {
 						"id": "4b47abf1-41f6-4ed4-9b4e-4bd1fbfb8bd2",
 						"exec": [
-							"// 5 min sleep change",
-							"// 5 min sleep change",
 							""
 						],
 						"type": "text/javascript"
@@ -92,7 +22,9 @@
 					"listen": "test",
 					"script": {
 						"id": "4156abe5-437d-42fe-8cd4-ed26e72dfcbe",
-						"exec": [],
+						"exec": [
+							""
+						],
 						"type": "text/javascript"
 					}
 				}
@@ -102,9 +34,9 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "OPTIONS",
+				"method": "POST",
 				"header": [],
-				"url": "collurl/path1/path2",
+				"url": "www.google.com",
 				"description": "Changed: 0.7196695738559864 Time: 0:23:52"
 			},
 			"response": []

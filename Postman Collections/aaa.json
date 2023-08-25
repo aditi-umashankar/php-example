@@ -12,9 +12,9 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "OPTIONS",
+				"method": "POST",
 				"header": [],
-				"url": null,
+				"url": "www.google.com",
 				"description": "Changed: 0.05145167154694102 Time: 23:18:30"
 			},
 			"response": []

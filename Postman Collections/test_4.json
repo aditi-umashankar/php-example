@@ -2,14 +2,14 @@
 	"info": {
 		"_postman_id": "de90de03-643c-4ad2-9450-e42105fc7007",
 		"name": "Coll 4",
-		"description": "extensive documentaion\n\nand some more info\n\nchange name\n\nchange name\n\nmore\n\nmore\n\nmore",
+		"description": "extensive documentaion\n\nand some more info\n\nchange name\n\nchange name\n\nmore",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
 			"name": "New Folder",
 			"item": [],
-			"_postman_id": "c4585912-c6f6-4641-b814-47e7280a5fd7"
+			"id": "c4585912-c6f6-4641-b814-47e7280a5fd7"
 		},
 		{
 			"name": "New Request",
@@ -34,28 +34,26 @@
 					}
 				}
 			],
-			"_postman_id": "872601b7-9a10-4654-8222-f167d2348ecd",
+			"id": "872601b7-9a10-4654-8222-f167d2348ecd",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "OPTIONS",
 				"header": [],
-				"url": null,
 				"description": "Changed: 0.0502985398679784 Time: 12:26:29"
 			},
 			"response": []
 		},
 		{
 			"name": "New Request",
-			"_postman_id": "34572784-b2ee-4019-8380-a55e7adf7d85",
+			"id": "34572784-b2ee-4019-8380-a55e7adf7d85",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": [],
-				"url": null
+				"header": []
 			},
 			"response": []
 		}

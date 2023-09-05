@@ -13,40 +13,6 @@
 		},
 		{
 			"name": "New Request",
-			"event": [
-				{
-					"listen": "prerequest",
-					"script": {
-						"id": "c53d6065-eb27-4be8-b126-f02b3488dfa1",
-						"exec": [
-							"changes galore",
-							"more changes"
-						],
-						"type": "text/javascript"
-					}
-				},
-				{
-					"listen": "test",
-					"script": {
-						"id": "bde70b04-a101-4362-b3ae-15305fd1d3b6",
-						"exec": [],
-						"type": "text/javascript"
-					}
-				}
-			],
-			"id": "872601b7-9a10-4654-8222-f167d2348ecd",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "OPTIONS",
-				"header": [],
-				"description": "Changed: 0.0502985398679784 Time: 12:26:29"
-			},
-			"response": []
-		},
-		{
-			"name": "New Request",
 			"id": "34572784-b2ee-4019-8380-a55e7adf7d85",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true

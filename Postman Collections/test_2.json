@@ -2,20 +2,19 @@
 	"info": {
 		"_postman_id": "c13f811a-a4aa-4fef-a2aa-89377604091e",
 		"name": "Coll 2",
-		"description": "Description update\n\nUpdate again",
+		"description": "Description update",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
 			"name": "New Request",
-			"_postman_id": "bb5cb0d5-a139-443b-8314-ebf198474e42",
+			"id": "bb5cb0d5-a139-443b-8314-ebf198474e42",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "OPTIONS",
 				"header": [],
-				"url": null,
 				"description": "Changed: 0.44709798522477107 Time: 20:43:11"
 			},
 			"response": []

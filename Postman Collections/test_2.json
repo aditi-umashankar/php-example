@@ -23,7 +23,12 @@
 					"name": "New Request",
 					"originalRequest": {
 						"method": "OPTIONS",
-						"header": []
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "///"
+						},
+						"url": "abc"
 					},
 					"_postman_previewlanguage": null,
 					"header": null,
